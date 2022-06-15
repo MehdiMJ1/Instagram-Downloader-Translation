@@ -9,7 +9,7 @@ YTAudioBot is currently available in the following languages:
 Language | Contributors | (%)
 :-- | :-- | :--
 :us: **English** ([en_US](locales/en_US.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
-:iq: **Arabic** ([ar_IQ](locales/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
+:iraq: **Arabic** ([ar_IQ](locales/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
 
 > Add yourself here once you submit your translations
 
@@ -20,7 +20,7 @@ You don't need to know how to program to create or improve translations.
 All you need is a text editor, knowledge of the English language and of course knowledge of your own language.
 
 ## Localization guidelines
-- Source/fallback is in English (en_US), updated simultaneously with Araic (ar_IQ).
+- Source/fallback is in English (en_US), updated simultaneously with Arabic (ar_IQ).
 - Locale files are stored under `locales` in JSON format: `{"key": "value"}`.
 - You only need to modify the `value` of the strings; do not translate the `key`.
 - Keep symbols like `**bold**`, `__italic__`, `` `code` ``, `\n`, `[` , `]` unaltered.
