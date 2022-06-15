@@ -9,7 +9,7 @@ YTAudioBot is currently available in the following languages:
 Language | Contributors | (%)
 :-- | :-- | :--
 :us: **English** ([en_US](locales/en_US.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
-:ir: **Arabic** ([ar_IQ](locales/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
+:iq: **Arabic** ([ar_IQ](locales/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
 
 > Add yourself here once you submit your translations
 
