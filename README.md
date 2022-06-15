@@ -8,8 +8,8 @@ YTAudioBot is currently available in the following languages:
 
 Language | Contributors | (%)
 :-- | :-- | :--
-:us: **English** ([en_US](messages/en_US.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
-:ir: **Arabic** ([ar_IQ](messages/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
+:us: **English** ([en_US](locales/en_US.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
+:ir: **Arabic** ([ar_IQ](locales/ar_IQ.json)) | [𝐇𝐀𝐂𝐇𝐄](//github.com/MehdiMJ1) | 100%
 
 > Add yourself here once you submit your translations
 
@@ -21,7 +21,7 @@ All you need is a text editor, knowledge of the English language and of course k
 
 ## Localization guidelines
 - Source/fallback is in English (en_US), updated simultaneously with Araic (ar_IQ).
-- Locale files are stored under `messages` in JSON format: `{"key": "value"}`.
+- Locale files are stored under `locales` in JSON format: `{"key": "value"}`.
 - You only need to modify the `value` of the strings; do not translate the `key`.
 - Keep symbols like `**bold**`, `__italic__`, `` `code` ``, `\n`, `[` , `]` unaltered.
 - Do not translate format fields such as `{username}` and `{seconds}`.
@@ -31,7 +31,7 @@ All you need is a text editor, knowledge of the English language and of course k
 The process is slightly different depending upon whether you are improving an existing localization or creating a new one.
 
 ### Improving an existing localization
-* [Look](messages) for the language file you want to review and compare it with [English (en_US)](messages/en_US.json).
+* [Look](locales) for the language file you want to review and compare it with [English (en_US)](locales/en_US.json).
 * Edit the translated strings you want to improve or translate the missing ones (`null`) by following the [localization guidelines](#localization-guidelines).
 * Send a pull request with your changes.
 
