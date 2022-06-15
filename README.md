@@ -1,5 +1,5 @@
 <a href="//t.me/IGLoaderRobot"><img src="logo.png" width="100%"/></a>
-#### Help translate [@IGLoaderRobot](//t.me/IGLoaderRobot) — a Instagram downloader for Telegram Messenger
+#### Help translate [@IGLoaderRobot](//t.me/IGLoaderRobot) — a Instagram Downloader for Telegram Messenger
 _Stay tuned for news and updates on our [Telegram Channel](//t.me/iCode11)_
 
 ---
