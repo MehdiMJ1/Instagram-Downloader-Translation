@@ -55,4 +55,5 @@ This way, it will be replaced with the corresponding string in English (en_US) a
 If you happen to find something to improve (without completely change the meaning), feel free to make changes.
 
 ## Contacts
-- Telegram: [@Support Group](//t.me/BotsDevsChat).
+- Telegram: [@𝐇𝐀𝐂𝐇𝐄](//t.me/jCHni).
+- Telegram Group: [@Support Group](//t.me/BotsDevsChat).
