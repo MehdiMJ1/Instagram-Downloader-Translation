@@ -1,0 +1,119 @@
+{
+  "StartMsg": [
+    "**Hi** [{firstname}](tg://user?id={user_id}) ..\n",
+    "**Welcome To Instagram Downloader:**\n\n",
+    "• You Can Download: \n",
+    "- `Posts`,  `Reels`,  `Stories`,  `Highlights`,  `IGTV`, `Instagram Profile Info` ..\n\n",
+    "⚠ Login is Required To Use The Bot, Send /help To See How .."
+  ],
+
+  "CheckMsg": "**Checking ..**",
+
+  "DownLoadingMsg": "**Downloading Now ..**",
+
+  "VideoMsg": "**Sending A Video Now ..**",
+
+  "PhotoMsg": "**Sending A Photo Now ..**",
+
+  "ErrorMsg": "**Error Occurred, try again later ..**",
+
+  "TwoFAError": [
+    "**Two Factor Authentication Is Enabled.\n\n",
+    "⭕ You Are Logged Out Now, Disable TFA Then Log in Again ..**"
+  ],
+
+  "ChallengeError": "**‼ Challenge Required, Open Your Instagram App in Your Device, And Resolve the Challenge, or Go to App Settings -> Security -> Login Activities and Click ( This Was Me )..**",
+
+  "MediaNotFound": "**Not Found or Expired ..**",
+
+  "UsernameError": "**The username you entered is not found, make sure and try again ..**",
+
+  "BadPassword": "**⭕ The password you entered is incorrect.**",
+
+  "BadPasswordError": "**You have been logged out because you have changed your password, log in again, send** /help ..",
+
+  "PrivateError": "**⭕ Can't download posts from private accounts.**",
+
+  "TFAError": "**Deactivate two factor authentication then try to log in again**",
+
+  "RateBeforeUse": [
+    "**🆔 Rate the bot before use, please ..\n\n",
+    "With ❤**"
+  ],
+
+  "WaitMsg1": "**Wait {minutes} minutes & {seconds} seconds to use the bot again.**",
+
+  "WaitMsg2": "**Wait {seconds} seconds to use the bot again.**",
+
+  "DonationMsg": [
+    "**To keep bots alive, donate any amount, thank you; with ❤️ ..**\n\n",
+    "https://www.paypal.me/MQDER"
+  ],
+
+  "HelpMsg": [
+    "Hi {firstname} ..\n\n",
+    "[[ Click This To See How To Log In ]](https://telegra.ph/How-to-sign-in-using-Instagram-Downloader-Bot-10-12)\n\n",
+    "• ⚠ Send /why_to_login if you ask .\n\n",
+    "• 🔰 Send /how_to_download to see how to download posts and others .\n\n",
+    "• ⭕ To Check Your Login Info Send /login_info ..\n\n",
+    "• 🔐 Your Data are Encrypted and Kept Safe in Our Database ..\n\n",
+    "• ✅ You Can Log out Anytime You Want And Your Data Will Be Deleted .. \n\n",
+    "• ❌ Do Not Activate Two Factor Authentication, Login Data Will Be Useless And You Have to Log In Again."
+  ],
+
+  "AlreadyLoginMsg": "**You Are Already Login, Hit** /login_info ..",
+
+  "LoginSuccessMsg": [
+    "**✅ Login Successfully, Your Info:**\n\n",
+    "**Username:**  `{username}`\n",
+    "**Password:**  `{password}`\n\n",
+    "**❌ Do not:**\n",
+    "`- Change your username.",
+    "\n- Change password.",
+    "\n- Set two factor authentication.`"
+  ],
+
+  "JoinedLoginInfo": [
+    "**You Are Already Login, Your Info:**\n\n",
+    "• Username: `{username}`\n",
+    "• Joined At: `{joined_at}`"
+  ],
+
+  "NotJoinedLoginInfo": [
+    "**❌ You Haven't Logged in, Use:**\n\n",
+    "/login `username` | `password`\n\n",
+    "Example:\n",
+    "/login `user123` | `pass123`\n\n",
+    "Or [[ See How To Log In ]](https://telegra.ph/How-to-sign-in-using-Instagram-Downloader-Bot-10-12)"
+  ],
+
+  "WhyLoginMsg": [
+    "**Why Should I Log In To Use The Bot ??** \n\n",
+    "• The bot is using instagram api to react with instagram like a real person ( a real account ), so with too many requests; instagram thinks I am bot so it blocks the account.\n\n",
+    "• Now, when the user log in with his own account, the  bot will use the account to react with instagram, like any other user uses instagram.\n\n",
+    "• So, for each account ( user logged in ), the requests will be less than 200 in 1 hour ( instagram requests limit ), but for one account for all users , there will be more than 5000 requests per 1 hour 😁."
+  ],
+
+  "HowToDownloadMsg": [
+    "🈹 **To Download Posts, Reels or IGTV, Just Send The Link, Example:**\n",
+    "» [Post] https://www.instagram.com/p/CVBAoKBp3Za/\n",
+    "» [Reel] https://www.instagram.com/reel/CUN_12JBmn1/\n",
+    "» [IGTV] https://www.instagram.com/tv/CT1IRyZhUzO/\n\n\n",
+    "☸ **To Download Stories or Highlights:** \n",
+    "- Send The Username or Profile then Click [Download Stories] Button, Example:\n",
+    "» [Profile Link] https://www.instagram.com/jasonstatham/\n",
+    "» [Profile Username] @jasonstatham\n\n",
+    "- Send The Story or Highlight Link ( The Story Must Be Active ). \n",
+    "» [Highlight Link] https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTY4MTU0ODk5MTk4MDYz?story_media_id=1926472402969532221_427553890\n\n",
+    "🔍 **To Search for Instagram Users:** \n",
+    "- Type `@IGLoaderRoBot @username` But Don't Send it & Wait"
+  ],
+
+  "JoinToUse": "You Have To Join The Bot's Channel First, That is Important For The Bots' Updates ..",
+
+  "LogToUse": "**⭕ You Should Log in To Use THe Bot, Hit** /help **To See How .. **",
+
+  "SureToRevoke": "**Are You Sure To Revoke Your Login Data ??**",
+
+  "ConfirmRevoke": "**Your Login Data Has Been Deleted From Database, Now You Can't Use The Bot Unless You Log in Again.**"
+}
