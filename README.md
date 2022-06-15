@@ -13,7 +13,7 @@ Language | Contributors | (%)
 
 > Add yourself here once you submit your translations
 
-All translations, except English (en_US), are made by volunteers who decided to help.
+All translations, except English (en_US) and Arabic (ar_IQ) are made by volunteers who decided to help.
 More translations and improved translations in any language are gratefully accepted!
 
 You don't need to know how to program to create or improve translations.
@@ -55,4 +55,4 @@ This way, it will be replaced with the corresponding string in English (en_US) a
 If you happen to find something to improve (without completely change the meaning), feel free to make changes.
 
 ## Contacts
-- Telegram: [@haskell](//t.me/BotsDevsChat).
+- Telegram: [@Support Group](//t.me/BotsDevsChat).
