@@ -1,0 +1,119 @@
+{
+  "StartMsg": [
+    "**Hola** [{firstname}](tg://user?id={user_id}) ..\n",
+    "**Bienvenido a Instagram Downloader:**\n\n",
+    "• Con el puedes descargar: \n",
+    "- `Publicaciones`,  `Reels`,  `Historias`,  `Highlights`,  `IGTV`, `Iformación de perfil de Instagram` ..\n\n",
+    "⚠ Para usar el bot es necesario iniciar sesión, envia /help para ver como .."
+  ],
+
+  "CheckMsg": "**Validando ..**",
+
+  "DownLoadingMsg": "**Descargando ..**",
+
+  "VideoMsg": "**Enviando video ..**",
+
+  "PhotoMsg": "**Enviando foto ..**",
+
+  "ErrorMsg": "**Ocurrió un error, vuelve a intentarlo nuevamente en un momento ..**",
+
+  "TwoFAError": [
+    "**La authenticación en dos pasos está activa.\n\n",
+    "⭕ Tu sesión ha sido cerrada, desactiva esta opción y vuelve a intentarlo ..**"
+  ],
+
+  "ChallengeError": "**‼ Acción requerida, abre la app en tu dispositivo, acepta el acceso, o dirígete a Configuración -> Seguridad -> Actividad de inicio de sesión ( Fui yo )..**",
+
+  "MediaNotFound": "**No encontrado o expirado ..**",
+
+  "UsernameError": "**El usuario que ingresaste no existe, valida y vuelve a intentar ..**",
+
+  "BadPassword": "**⭕ La contraseña ingresada es incorrecta.**",
+
+  "BadPasswordError": "**Tu sesión ha sido cerrada porque cambiaste de contraseña, inicia sesión nuevamente; para obtener ayuda escribe** /help ..",
+
+  "PrivateError": "**⭕ No puedes descargar publicaciones de cuentas privadas.**",
+
+  "TFAError": "**Desactiva la autenticación en dos pasos y vuelve a intentarlo**",
+
+  "RateBeforeUse": [
+    "**🆔 Por favor, valora el bot antes de usarlo ..\n\n",
+    "con mucho ❤**"
+  ],
+
+  "WaitMsg1": "**Espera {minutes} minutos y {seconds} segundos para volver a usar el bot.**",
+
+  "WaitMsg2": "**Espera {seconds} segundos para volver a usar el bot.**",
+
+  "DonationMsg": [
+    "**Para mantener el bot requerimos de tu apoyo, dona cualquier cantidad, muchas gracias; de todo ❤️ ..**\n\n",
+    "https://www.paypal.me/MQDER"
+  ],
+
+  "HelpMsg": [
+    "Hola {firstname} ..\n\n",
+    "[[ Da clic para ver como inciar sesión ]](https://telegra.ph/How-to-sign-in-using-Instagram-Downloader-Bot-10-12)\n\n",
+    "• ⚠ Envia /why_to_login si tienes preguntas .\n\n",
+    "• 🔰 Envia /how_to_download para ver como descargar publicaciones y demás .\n\n",
+    "• ⭕ Para verificar tu información de inicio de sesión envia /login_info ..\n\n",
+    "• 🔐 Tu información esta encriptada y segura en nuestra base de datos ..\n\n",
+    "• ✅ Puedes cerrar sesión en cualquier momento y tu información será borrada .. \n\n",
+    "• ❌ No actives la autenticación en dos pasos, tu sesión no funcionará y tendrás que volver a iniciar sesión."
+  ],
+
+  "AlreadyLoginMsg": "**Ya iniciaste sesión, presiona** /login_info ..",
+
+  "LoginSuccessMsg": [
+    "**✅ Inicio de sesión exitoso, tus datos:**\n\n",
+    "**Usuario:**  `{username}`\n",
+    "**Contraseña:**  `{password}`\n\n",
+    "**❌ Evita:**\n",
+    "`- Cambiar tu usuario.",
+    "\n- Cambiar tu contraseña.",
+    "\n- Activar autenticación en dos pasos.`"
+  ],
+
+  "JoinedLoginInfo": [
+    "**Ya tienes una sesión activa, tus datos:**\n\n",
+    "• Usuario: `{username}`\n",
+    "• Desde: `{joined_at}`"
+  ],
+
+  "NotJoinedLoginInfo": [
+    "**❌ No has iniciado sesión, usa:**\n\n",
+    "/login `username` | `password`\n\n",
+    "Ejemplo:\n",
+    "/login `user123` | `pass123`\n\n",
+    "O [[ Da clic para ver como inciar sesión ]](https://telegra.ph/How-to-sign-in-using-Instagram-Downloader-Bot-10-12)"
+  ],
+
+  "WhyLoginMsg": [
+    "**¿¿ Por qué tengo que iniciar sesión para usar el bot ??** \n\n",
+    "• El bot hace uso del api de instagram para interactuar con instagram como una persona ( una cuenta real ), con muchas consultas; instagram piensa que es un bot así que bloquea la cuenta.\n\n",
+    "• Ahora, cuando el usuario inicia sesión con su propia cuenta, el bot usará esta cuenta para interactuar con instagram, como cualquier otro usuario lo hace.\n\n",
+    "• Así que, para cada cuenta ( usuario con sesion iniciada ), las consultas serán menores a 200 en 1 hora ( límite de consultas de instagram ), pero con una cuenta para todos los usuarios , habría más de 5000 consultas por hora 😁."
+  ],
+
+  "HowToDownloadMsg": [
+    "🈹 **Para descargar publicaciones, Reels or IGTV, únicamente envía el enlace, Example:**\n",
+    "» [Publicación] https://www.instagram.com/p/CVBAoKBp3Za/\n",
+    "» [Reel] https://www.instagram.com/reel/CUN_12JBmn1/\n",
+    "» [IGTV] https://www.instagram.com/tv/CT1IRyZhUzO/\n\n\n",
+    "☸ **Para descargar historias o highlights:** \n",
+    "- Envía el usuario o perfil, luego da clic en el botón [Download Stories], ejemplo:\n",
+    "» [Enlace del perfil] https://www.instagram.com/jasonstatham/\n",
+    "» [Usuario del perfil] @jasonstatham\n\n",
+    "- Enviar el enlace de la historia o highlight ( La historia debe estar activa ). \n",
+    "» [Enlace a highlight] https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTY4MTU0ODk5MTk4MDYz?story_media_id=1926472402969532221_427553890\n\n",
+    "🔍 **Para buscar usuarios de instagram:** \n",
+    "- Escribe `@IGLoaderRoBot @username` pero no lo envies y espera"
+  ],
+
+  "JoinToUse": "Antes de empezar tienes que unirte al canal del bot, para mantenerte informado de las actualizaciones ..",
+
+  "LogToUse": "**⭕ Debes iniciar sesión para utilizar el bot, Presiona** /help **para ver como .. **",
+
+  "SureToRevoke": "**¿¿ Estás seguro que deseas cerrar sesión ??**",
+
+  "ConfirmRevoke": "**Tu información de acceso ha sido borrada de nuestra base de datos, no puedes usar el bot a menos que inicies sesión nuevamente.**"
+}
