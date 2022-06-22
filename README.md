@@ -45,6 +45,7 @@ Then, you can start.
 
 * Copy `en_US.json` and rename the file to your [language code](LANGUAGES.md), e.g. `de_DE.json`.
 * Edit the file to change the English strings to your language strings by following the [localization guidelines](#localization-guidelines). 
+* Don't forget to add your name and the percent of translation's accuracy to contributers table in README.md.
 * Send a pull request with your changes.
 
 If you don't know exactly how to translate a specific string you can set the entire value to `null`, e.g. `"ConfirmRevoke": null`.
