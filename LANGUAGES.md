@@ -21,6 +21,7 @@ ar_TN | Arabic - Tunisia
 ar_AE | Arabic - United Arab Emirates
 ar_YE | Arabic - Yemen
 hy_AM | Armenian - Armenia
+bn_BD | Bangla - Bangladesh
 Cy_az_AZ | Azeri (Cyrillic) - Azerbaijan
 Lt_az_AZ | Azeri (Latin) - Azerbaijan
 eu_ES | Basque - Basque
